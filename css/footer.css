@@ -1,0 +1,142 @@
+.footer{
+    width: 1440px;
+    height: 830px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    
+}
+.footer__top-content{
+    display: flex;
+}
+
+.footer__nav{
+    display: flex;
+    margin-top: 46px;
+    margin-left: 117px;
+    padding: 8px 0px 8px 0px;
+}
+.footer__nav *{
+    color: #FFFFFF;
+}
+.nav__content{
+    width: 186px;
+    margin-right: 18px;
+}
+.nav__item{
+    margin-bottom: 15px;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+}
+
+.subs__content{
+    display: flex;
+    background: #1E2124;
+    border-radius: 32px;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+}
+.subs__text{
+    color: #79858B;
+
+}
+.subs__email{
+    color: #FFFFFF;
+}
+.footer__subs{
+    margin-left: 102px;
+    margin-top: 52px;
+}
+.subs__text{
+    margin-top: 18px;
+    width: 470px;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+    color: #79858B;
+}
+.subs__content{
+    width: 492px;
+    height: 64px;
+    margin-top: 10px;
+}
+.subs__email{
+    margin-top: 18px;
+    margin-left: 44px;
+    color: #FFFFFF ;   
+    opacity: 50%;
+}
+.subs__button{
+    width: 155px;
+    height: 28px;
+    margin: 18px 12px 18px 152px;
+    background: #00C805;
+    border-radius: 24px;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.25px;
+}
+
+
+.footer__ref{
+    display: flex;
+    width: 492px;
+    height: 172px;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 8px;
+    margin-right: 100px;
+    margin-left: 828px;
+}
+.ref__items{
+  font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+
+}
+.footer__line{
+    width: 1206px;
+    height: 2px;
+    margin-left: 117px;
+    background-color: #79858B;
+    margin-top: 35px;
+}
+
+
+.footer__comments>*{
+    color:#FFFFFF;
+}
+.footer__comments{
+    margin-top: 36px;
+    margin-left: 117px;
+
+}
+.comments__item{
+    width: 1186px;
+    margin-bottom: 25px;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+
+}
+.comments__item_green{
+    color: #00C805;
+    font-size: 14px;
+    margin-left: 19px;
+}
+.comments__item:last-of-type{
+    margin-top: -3px;
+}
+.footer__warn{
+    margin-left: 117px;
+    margin-top: 7px;
+}
+
+.footer__warn-text>*{
+    color: #79858B;
+}

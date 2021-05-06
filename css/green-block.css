@@ -1,0 +1,38 @@
+.green-block{
+  width: 1440px;
+  height: 653px;
+  background-color:  #C3F53C;
+  display:flex;
+}
+.green-block__title{
+  width: 300px;
+  height: 120px;
+  margin-left: 117px;
+  margin-top: 94px;
+}
+.green-block__description{
+  width: 486px;
+  height: 144px;
+  font-size: 24px;
+  letter-spacing: 0.25px;
+  font-weight: 700;
+  margin-left: 117px;
+  margin-top: 31px;
+  font-style: normal;
+  line-height: 36px;
+}
+.green-block__button_black{
+  background: black;
+  border-radius: 24px;
+  color: #fff;
+  margin-top: 39px;
+  margin-left: 117px;
+}
+.green-block__warn{
+  margin-left: 117px;
+  margin-top: 42px;
+}
+.green-block__phone-image{
+  margin-top: 31px;
+  margin-left: 24px;
+}
